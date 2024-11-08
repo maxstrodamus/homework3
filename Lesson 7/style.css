@@ -1,0 +1,9 @@
+button:disabled {
+    background: #f5f5;
+}
+
+input:focus {
+    outline: none;
+    border-radius: 3px;
+    
+}
